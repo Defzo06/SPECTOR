@@ -1,13 +1,5 @@
-# Cursor
+#Spector
 
-[Cursor](https://cursor.com) is a code editor built for programming with AI.
+Spector is an interactive cursor for the web, designed to enhance user experience with smooth animations, dynamic visual effects, and full customization.
 
-Creating new posts on [the forum](https://forum.cursor.com/) for bugs or feature requests is much appreciated 🙂 Feel free to react to the ones you'd like us to prioritize.
-
-## Getting Started
-
-Head over to [our website](https://cursor.com/) to download and try out the editor.
-
-## Features
-
-[See here](https://cursor.com/features) for more info on Cursor's features.
+Creating new issues on the GitHub repository for bugs or feature requests is much appreciated 🙂 Feel free to suggest enhancements or vote on existing requests.
