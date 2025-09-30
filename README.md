@@ -1,4 +1,4 @@
-#Spector
+Spector
 
 Spector is an interactive cursor for the web, designed to enhance user experience with smooth animations, dynamic visual effects, and full customization.
 
